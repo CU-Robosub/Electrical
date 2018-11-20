@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=U_Teensy3_5 Member=Teensy 1
+Added Component: Designator=Teensy1(T36)
+Added Member To Class: ClassName=U_Teensy3_5 Member=Component Teensy1 TEENSY3_6--ALLPINS

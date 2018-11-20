@@ -1,0 +1,16 @@
+Added Component: Designator=*(DFN1110P1308X460-2N)
+Added Component: Designator=C27(1608[0603])
+Added Component: Designator=C28(1608[0603])
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=GND Pin=C28-2
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=C27-1
+Added Pin To Net: NetName=Net*_1 Pin=U2-20
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=C28-1
+Added Pin To Net: NetName=Net*_2 Pin=U2-19
+Added Net: Name=Net*_2
+Added Member To Class: ClassName=U_ADC Member=Component * MA-505 16
+Added Member To Class: ClassName=U_ADC Member=Component C27 Cap
+Added Member To Class: ClassName=U_ADC Member=Component C28 Cap

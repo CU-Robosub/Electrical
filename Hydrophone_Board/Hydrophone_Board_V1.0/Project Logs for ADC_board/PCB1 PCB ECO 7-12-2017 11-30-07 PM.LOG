@@ -1,0 +1,19 @@
+Added Component: Designator=P_Pot(HDR1X5)
+Added Pin To Net: NetName=NetP_Pot_1 Pin=P_Pot-1
+Added Pin To Net: NetName=NetP_Pot_1 Pin=U_Pot-5
+Added Net: Name=NetP_Pot_1
+Added Pin To Net: NetName=NetP_Pot_2 Pin=P_Pot-2
+Added Pin To Net: NetName=NetP_Pot_2 Pin=U_Pot-4
+Added Net: Name=NetP_Pot_2
+Added Pin To Net: NetName=NetP_Pot_3 Pin=P_Pot-3
+Added Pin To Net: NetName=NetP_Pot_3 Pin=U_Pot-8
+Added Net: Name=NetP_Pot_3
+Added Pin To Net: NetName=NetP_Pot_4 Pin=P_Pot-4
+Added Pin To Net: NetName=NetP_Pot_4 Pin=U_Pot-10
+Added Net: Name=NetP_Pot_4
+Added Pin To Net: NetName=NetP_Pot_5 Pin=P_Pot-5
+Added Pin To Net: NetName=NetP_Pot_5 Pin=U_Pot-9
+Added Net: Name=NetP_Pot_5
+Added Member To Class: ClassName=Top_level Member=Component P_Pot Header 5
+Added Room: Name=A
+Added Room: Name=C

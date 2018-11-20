@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetP_Pot_2 Pin=U_Pot-4
+Removed Pin From Net: NetName=NetP_Pot_1 Pin=U_Pot-5
+Added Pin To Net: NetName=NetP_Pot_1 Pin=U_Pot-4
+Added Pin To Net: NetName=NetP_Pot_2 Pin=U_Pot-5
+Change Room Name: Old Name=A_1 New Name=A
+Change Room Name: Old Name=C_1 New Name=C

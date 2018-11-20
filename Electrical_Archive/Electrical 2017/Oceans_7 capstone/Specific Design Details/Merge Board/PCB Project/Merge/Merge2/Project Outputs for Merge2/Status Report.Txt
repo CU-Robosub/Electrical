@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Merge2.PrjPcb]
+   Generated File[MergeBoard.TXT]
+   Generated File[MergeBoard.LDP]
+   Generated File[MergeBoard.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:22:40 PM On 3/22/2017

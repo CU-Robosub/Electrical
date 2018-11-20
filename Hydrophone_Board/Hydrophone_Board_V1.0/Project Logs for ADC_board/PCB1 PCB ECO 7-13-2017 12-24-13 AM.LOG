@@ -1,0 +1,12 @@
+Added Component: Designator=P_Vcc(HDR1X2)
+Added Pin To Net: NetName=AGND Pin=C8-2
+Added Pin To Net: NetName=AGND Pin=C9-2
+Added Pin To Net: NetName=AGND Pin=C22-1
+Added Pin To Net: NetName=AGND Pin=C23-1
+Added Pin To Net: NetName=AGND Pin=P_Vcc-1
+Added Pin To Net: NetName=5V Pin=P_Vcc-2
+Added Pin To Net: NetName=AGND Pin=U2-7
+Added Pin To Net: NetName=AGND Pin=U2-23
+Added Pin To Net: NetName=AGND Pin=V3-2
+Added Pin To Net: NetName=AGND Pin=V3-4
+Added Member To Class: ClassName=Top_level Member=Component P_Vcc Header 2

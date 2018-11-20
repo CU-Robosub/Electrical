@@ -1,0 +1,22 @@
+Added Pin To Net: NetName=5V Pin=U15-3
+Added Pin To Net: NetName=GND Pin=U15-4
+Added Pin To Net: NetName=GND Pin=U15-6-2
+Added Pin To Net: NetName=TEENSYKILL Pin=U15-9-2
+Added Pin To Net: NetName=ANALOGOUT6 Pin=U15-9
+Added Pin To Net: NetName=KILL OUT Pin=U15-10-2
+Added Pin To Net: NetName=ANALOGOUT5 Pin=U15-10
+Added Pin To Net: NetName=ANALOGOUT4 Pin=U15-11-2
+Added Pin To Net: NetName=ANALOGOUT7 Pin=U15-11
+Added Pin To Net: NetName=ANALOGOUT8 Pin=U15-12
+Added Pin To Net: NetName=ANALOGOUT9 Pin=U15-13
+Added Pin To Net: NetName=ANALOGOUT2 Pin=U15-14-2
+Added Pin To Net: NetName=ANALOGOUT10 Pin=U15-14
+Added Pin To Net: NetName=ANALOGOUT1 Pin=U15-15-2
+Added Pin To Net: NetName=ANALOGOUT3 Pin=U15-17-2
+Added Room: Name=U_5V_Converter
+Added Room: Name=U_KillSwitch_MotorOut
+Added Room: Name=U_Merge
+Added Room: Name=U_PowerOutCurrentMonitor
+Added Room: Name=U_T100CurrentMonitor
+Added Room: Name=U_Teensy3_5
+Added Room: Name=U_VidRayCurrentMonitor

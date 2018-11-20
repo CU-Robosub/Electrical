@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ANALOGOUT7 Pin=U15-13
+Removed Pin From Net: NetName=ANALOGOUT8 Pin=U15-14
+Added Pin To Net: NetName=ANALOGOUT8 Pin=U15-13
+Added Pin To Net: NetName=ANALOGOUT7 Pin=U15-14

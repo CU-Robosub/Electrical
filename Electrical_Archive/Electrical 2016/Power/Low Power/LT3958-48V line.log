@@ -1,0 +1,55 @@
+Circuit: * C:\Users\Jeff\Google Drive\Robotics\Robosub 2016\Electrical\Power\Low Power\LT3958-48V line.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+Gmin = 1.89714e-008
+Gmin = 2.03704e-009
+Gmin = 2.18725e-010
+Gmin = 2.34854e-011
+Gmin = 2.52173e-012
+Gmin = 2.70769e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Heightened Def Con from 0.00132678 to 0.00132678
+Heightened Def Con from 0.00178275 to 0.00178276
+Heightened Def Con from 0.00211118 to 0.00211119
+Heightened Def Con from 0.00401029 to 0.00401029
+Heightened Def Con from 0.00437997 to 0.00437997
+Heightened Def Con from 0.00438318 to 0.00438319
+Heightened Def Con from 0.00438961 to 0.00438961
+Heightened Def Con from 0.0047625 to 0.00476251
+Heightened Def Con from 0.00477858 to 0.00477858
+Heightened Def Con from 0.00483323 to 0.00483323
+Heightened Def Con from 0.00492645 to 0.00492645
+Heightened Def Con from 0.00495217 to 0.00495217
+Heightened Def Con from 0.00496181 to 0.00496181
+
+Date: Thu Sep 08 10:29:51 2016
+Total elapsed time: 32.759 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2108358
+traniter = 2107982
+tranpoints = 557914
+accept = 415228
+rejected = 142699
+matrix size = 42
+fillins = 12
+solver = Normal
+Thread vector: 7.4/6.6[2] 4.2/6.2[1] 0.4/1.3[1] 0.2/0.7[1]  2592/500
+Matrix Compiler1: 2.25 KB object code size  0.9/0.4/[0.3]
+Matrix Compiler2: off  [0.4]/0.6/0.6
+
+
