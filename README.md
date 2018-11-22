@@ -28,13 +28,16 @@ Merge/ESC board will contain the Merge Circuit and header plugs for the Pololu a
 ### 5V Converter
 1. [R-78-E-0.5 Datasheet](https://www.recom-power.com/pdf/Innoline/R-78Exx-0.5.pdf) 
 2. [AD8217 Datasheet](http://www.analog.com/media/en/technical-documentation/data-sheets/AD8217.pdf)
-### 9V, 12V, and 19V Converter
+### 12V Converter
+1. [Digikey](https://www.digikey.com/product-detail/en/tdk-lambda-americas-inc/I6A4W020A033V-003-R/285-2669-ND/6605122)
+2. [Datasheet](https://www.us.tdk-lambda.com/ftp/specs/i6a4w_datasheet.pdf)
+### 9V and 19V Converter
 1. [LTC3780 Datasheet](http://cds.linear.com/docs/en/datasheet/3780ff.pdf)
 2. [LTC3780 LTSpice](http://www.linear.com/product/LTC3780)
 3. [BUK6212 Datasheet](https://assets.nexperia.com/documents/data-sheet/BUK6212-40C.pdf)
 4. [MMSZ5230B Datasheet](https://www.diodes.com/assets/Datasheets/ds18010.pdf)
 5. [MBRS340 Datasheet](https://www.mouser.com/ds/2/308/MBRS340-1120985.pdf)
-6. [IN5819 Datasheet](https://www.diodes.com/assets/Datasheets/ds23001.pdf)
+6. [IN5819 Datasheet](http://www.kesenes.com/pdf/1n5817-1n5819.pdf)
 7. [SRR1240 Datasheet](https://www.bourns.com/docs/Product-Datasheets/SRR1240.pdf)
 8. [AD8217 Datasheet](http://www.analog.com/media/en/technical-documentation/data-sheets/AD8217.pdf)
 ### 48V Converter
