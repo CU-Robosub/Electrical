@@ -2,4 +2,5 @@
 /**/*.schdocpreview
 /**/History
 /Pneumatics_Board/Project Logs for Pneumatics_Board/*
-/**/**.log
+/Power_Embedded_Board/Project Logs for Power_Embedded_Board/*
+/**/*.log
