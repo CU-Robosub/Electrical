@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Pneumatics_Board.PrjPcb]
+   Generated File[Pneumatics_Board.TXT]
+   Generated File[Pneumatics_Board.LDP]
+   Generated File[Pneumatics_Board.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:08:31 PM On 12/21/2018
