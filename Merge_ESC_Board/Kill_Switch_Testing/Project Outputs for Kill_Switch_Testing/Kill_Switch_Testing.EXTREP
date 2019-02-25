@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Pneumatics_Board.GBR   2/8/2019  10:27:49 AM
+Gerber File Extension Report For: Kill_Switch_Testing.GBR   2/1/2019  4:15:20 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -7,10 +7,7 @@ Gerber File Extension Report For: Pneumatics_Board.GBR   2/8/2019  10:27:49 AM
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
 .GTL                Top Layer                               
-.GBL                Bottom Layer                            
 .GTO                Top Overlay                             
 .GTS                Top Solder                              
-.GBS                Bottom Solder                           
-.GBO                Bottom Overlay                          
 .GKO                Keep-Out Layer                          
 ------------------------------------------------------------------------------------------
