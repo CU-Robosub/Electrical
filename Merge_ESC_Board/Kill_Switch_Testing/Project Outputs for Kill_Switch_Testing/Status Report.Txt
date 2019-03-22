@@ -1,12 +1,14 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [Kill_Switch_Testing.PrjPcb]
-   Generated File[Kill_Switch_Testing.TXT]
-   Generated File[Kill_Switch_Testing.LDP]
-   Generated File[Kill_Switch_Testing.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Kill_Switch_Testing.PrjPcb]
+   Generated File[Kill_Switch_Testing.GTS]
+   Generated File[Kill_Switch_Testing.GTL]
+   Generated File[Kill_Switch_Testing.RUL]
+   Generated File[Kill_Switch_Testing.EXTREP]
+   Generated File[Kill_Switch_Testing.REP]
 
 
-Files Generated   : 3
+Files Generated   : 5
 Documents Printed : 0
 
-Finished Output Generation At 4:16:09 PM On 2/1/2019
+Finished Output Generation At 2:10:07 PM On 2/8/2019
