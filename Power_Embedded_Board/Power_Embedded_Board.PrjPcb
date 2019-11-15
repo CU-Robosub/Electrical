@@ -208,23 +208,6 @@ GenerateClassCluster=0
 DocumentUniqueId=HBNRUGWP
 
 [Document11]
-DocumentPath=48V_Converter2.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=5
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IGMAWOAE
-
-[Document12]
 DocumentPath=Power_Embedded_Board.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
