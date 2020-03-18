@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: MiniSub_Power_Board.GBR   5/28/2019  8:57:44 PM
+Gerber File Extension Report For: MiniSub_Power_Board.GBR   3/18/2020  2:25:32 AM
 ------------------------------------------------------------------------------------------
 
 
@@ -7,11 +7,12 @@ Gerber File Extension Report For: MiniSub_Power_Board.GBR   5/28/2019  8:57:44 P
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
 .GTL                Top Layer                               
+.G1                 Ground                                  
 .G2                 Battery Voltage                         
 .GBL                Bottom Layer                            
-.G1                 Ground                                  
 .GTO                Top Overlay                             
+.GTP                Top Paste                               
 .GTS                Top Solder                              
-.GBO                Bottom Overlay                          
+.GBS                Bottom Solder                           
 .GKO                Keep-Out Layer                          
 ------------------------------------------------------------------------------------------
