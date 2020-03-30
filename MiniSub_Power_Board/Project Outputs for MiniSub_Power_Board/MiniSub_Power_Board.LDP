@@ -1,2 +1,4 @@
-Layer Pairs Export File for PCB: G:\Electrical\MiniSub_Power_Board\MiniSub_Power_Board.PcbDoc
-LayersSetName=Top_Bot_Thru_Holes|DrillFile=minisub_power_board-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+Layer Pairs Export File for PCB: C:\Users\fairb\_myDocuments\Robosub\Electrical\MiniSub_Power_Board\MiniSub_Power_Board.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=minisub_power_board-roundholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=minisub_power_board-roundholes-nonplated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_NonPlated_Slot_Holes|DrillFile=minisub_power_board-slotholes-nonplated.txt|DrillLayers=gtl,g1,g2,gbl

@@ -192,15 +192,15 @@ GenerateClassCluster=0
 DocumentUniqueId=QRAIFKBT
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for MiniSub_Power_Board\Design Rule Check - MiniSub_Power_Board.html
+DocumentPath=Project Outputs for MiniSub_Power_Board\MiniSub_Power_Board-RoundHoles-NonPlated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for MiniSub_Power_Board\MiniSub_Power_Board-RoundHoles.TXT
+DocumentPath=Project Outputs for MiniSub_Power_Board\MiniSub_Power_Board-RoundHoles-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for MiniSub_Power_Board\MiniSub_Power_Board-SlotHoles.TXT
+DocumentPath=Project Outputs for MiniSub_Power_Board\MiniSub_Power_Board-SlotHoles-NonPlated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
@@ -504,7 +504,7 @@ OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
 Configuration1_Name1=OutputConfigurationParameter1
-Configuration1_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
+Configuration1_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=True|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
 OutputType2=Mask
 OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
