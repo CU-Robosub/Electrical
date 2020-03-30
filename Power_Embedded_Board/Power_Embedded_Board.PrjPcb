@@ -238,39 +238,59 @@ DocumentPath=Project Outputs for Power_Embedded_Board\Power_Embedded_Board-SlotH
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Power_Embedded_Board\Power_Embedded_Board.G1
+DocumentPath=Project Outputs for Power_Embedded_Board\Power_Embedded_Board.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Power_Embedded_Board\Power_Embedded_Board.G2
+DocumentPath=Project Outputs for Power_Embedded_Board\Power_Embedded_Board.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Power_Embedded_Board\Power_Embedded_Board.GBL
+DocumentPath=Project Outputs for Power_Embedded_Board\Power_Embedded_Board.G1
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Power_Embedded_Board\Power_Embedded_Board.GBS
+DocumentPath=Project Outputs for Power_Embedded_Board\Power_Embedded_Board.G2
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Power_Embedded_Board\Power_Embedded_Board.GKO
+DocumentPath=Project Outputs for Power_Embedded_Board\Power_Embedded_Board.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Power_Embedded_Board\Power_Embedded_Board.GTL
+DocumentPath=Project Outputs for Power_Embedded_Board\Power_Embedded_Board.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Power_Embedded_Board\Power_Embedded_Board.GTO
+DocumentPath=Project Outputs for Power_Embedded_Board\Power_Embedded_Board.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Power_Embedded_Board\Power_Embedded_Board.GTP
+DocumentPath=Project Outputs for Power_Embedded_Board\Power_Embedded_Board.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
+DocumentPath=Project Outputs for Power_Embedded_Board\Power_Embedded_Board.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Power_Embedded_Board\Power_Embedded_Board.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
 DocumentPath=Project Outputs for Power_Embedded_Board\Power_Embedded_Board.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Power_Embedded_Board\Power_Embedded_Board.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Power_Embedded_Board\Power_Embedded_Board.REP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Power_Embedded_Board\Power_Embedded_Board.RUL
 DItemRevisionGUID=
 
 [Configuration1]

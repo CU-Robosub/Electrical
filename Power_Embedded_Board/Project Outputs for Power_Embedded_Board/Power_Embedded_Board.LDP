@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\fairb\_myDocuments\Robosub\Electrical\Power_Embedded_Board\Power_Embedded_Board.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=power_embedded_board-roundholes-plated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=power_embedded_board-roundholes-nonplated.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_NonPlated_Slot_Holes|DrillFile=power_embedded_board-slotholes-nonplated.txt|DrillLayers=gtl,g1,g2,gbl
