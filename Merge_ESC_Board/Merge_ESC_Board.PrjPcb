@@ -3,7 +3,7 @@ Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
 ReleasesFolder=
-ChannelDesignatorFormatString=$Component_$RoomName
+ChannelDesignatorFormatString=$Component$ChannelAlpha
 ChannelRoomLevelSeperator=_
 OpenOutputs=1
 ArchiveProject=0
@@ -28,10 +28,9 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for Merge_ESC_Board
 LogFolderPath=
 ManagedProjectGUID=
-LinkedManagedProjectGUID=
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -49,64 +48,13 @@ AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MCKTRFMY
 
 [Document2]
-DocumentPath=Merge_ESC_Board_Libraries\Merge_ESC_Board_Library.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KLEXFCOE
-
-[Document3]
-DocumentPath=Merge_ESC_Board_Libraries\Merge_ESC_Board_Library.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GPKVBRWR
-
-[Document4]
-DocumentPath=Merge_ESC_Board_Libraries\ESC_Header.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NEEOVEPT
-
-[Document5]
 DocumentPath=Merge_ESC_Board.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,64 +71,76 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MHQLWGVT
 
+[Document3]
+DocumentPath=ESC_Header.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NEEOVEPT
+
+[Document4]
+DocumentPath=Merge_ESC_Board_Library.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KLEXFCOE
+
+[Document5]
+DocumentPath=Merge_ESC_Board_Library.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GPKVBRWR
+
+[Document6]
+DocumentPath=Merge_ESC_Board.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Merge_ESC_Board\Merge_ESC_Board.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Merge_ESC_Board\Merge_ESC_Board.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Merge_ESC_Board\Merge_ESC_Board.G1
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Merge_ESC_Board\Merge_ESC_Board.G2
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Merge_ESC_Board\Merge_ESC_Board.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Merge_ESC_Board\Merge_ESC_Board.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Merge_ESC_Board\Merge_ESC_Board.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Merge_ESC_Board\Merge_ESC_Board.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Merge_ESC_Board\Merge_ESC_Board.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Merge_ESC_Board\Merge_ESC_Board.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Merge_ESC_Board\Merge_ESC_Board.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Merge_ESC_Board\Merge_ESC_Board.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Merge_ESC_Board\Merge_ESC_Board.REP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Merge_ESC_Board\Merge_ESC_Board.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Merge_ESC_Board\Merge_ESC_Board.TXT
+DocumentPath=Project Outputs for Merge_ESC_Board\Design Rule Check - Merge_ESC_Board.html
 DItemRevisionGUID=
 
 [Configuration1]
@@ -192,6 +152,45 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=-1
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=0
+TemplateFilename=
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+SCH_ExpandLogicalToPhysical=0
+SCH_VariantName=[No Variations]
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=-1
+
+[Generic_EDE]
+OutputDir=Project Outputs for Merge_ESC_Board
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -298,22 +297,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=XSpice Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=EPSON ET-2720 Series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -380,18 +369,12 @@ OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType11=Wave Print
-OutputName11=Wave Prints
+OutputType11=PDF3D MBA
+OutputName11=PDF3D MBA
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType12=WaveSim Print
-OutputName12=WaveSim Prints
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -902,6 +885,11 @@ OutputName6=Footprint Comparison Report
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
+OutputType7=BOM_Violations
+OutputName7=BOM Checks Report
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
 
 [OutputGroup9]
 Name=Export Outputs
@@ -953,6 +941,16 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=MBAExportPARASOLID
+OutputName10=Export PARASOLID
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=MBAExportSTEP
+OutputName11=Export STEP
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1056,6 +1054,35 @@ Type87=1
 Type88=1
 Type89=1
 Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
+Type96=1
+Type97=1
+Type98=1
+Type99=1
+Type100=1
+Type101=1
+Type102=1
+Type103=1
+Type104=1
+Type105=1
+Type106=1
+Type107=1
+Type108=1
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=1
+Type115=1
+Type116=1
+Type117=1
+Type118=1
+Type119=1
 
 [Difference Levels]
 Type1=1
@@ -1107,6 +1134,25 @@ Type46=1
 Type47=1
 Type48=1
 Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1115,33 +1161,33 @@ Type3=2
 Type4=1
 Type5=2
 Type6=2
-Type7=1
+Type7=0
 Type8=1
 Type9=1
 Type10=1
 Type11=2
-Type12=2
-Type13=2
+Type12=0
+Type13=0
 Type14=1
 Type15=1
 Type16=1
 Type17=1
 Type18=1
 Type19=1
-Type20=1
-Type21=1
-Type22=1
-Type23=1
+Type20=0
+Type21=0
+Type22=0
+Type23=0
 Type24=1
 Type25=2
-Type26=2
+Type26=0
 Type27=2
 Type28=1
 Type29=1
 Type30=1
 Type31=1
 Type32=2
-Type33=2
+Type33=0
 Type34=2
 Type35=1
 Type36=2
@@ -1152,15 +1198,15 @@ Type40=2
 Type41=0
 Type42=2
 Type43=1
-Type44=1
-Type45=2
-Type46=1
-Type47=2
-Type48=2
-Type49=1
+Type44=0
+Type45=0
+Type46=0
+Type47=0
+Type48=0
+Type49=0
 Type50=2
-Type51=1
-Type52=1
+Type51=0
+Type52=0
 Type53=1
 Type54=1
 Type55=1
@@ -1168,10 +1214,10 @@ Type56=2
 Type57=1
 Type58=1
 Type59=2
-Type60=1
-Type61=2
-Type62=2
-Type63=1
+Type60=0
+Type61=0
+Type62=0
+Type63=0
 Type64=0
 Type65=2
 Type66=3
@@ -1209,7 +1255,7 @@ Type97=2
 Type98=0
 Type99=1
 Type100=2
-Type101=1
+Type101=0
 Type102=2
 Type103=2
 Type104=1
@@ -1222,7 +1268,15 @@ Type110=1
 Type111=1
 Type112=1
 Type113=1
+Type114=2
+Type115=2
+Type116=2
+Type117=3
+Type118=3
+Type119=3
 MultiChannelAlternate=2
+AlternateItemFail=3
+Type122=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1246,6 +1300,7 @@ L17=WNNNNNNNWNNNWWWWN
 [Annotate]
 SortOrder=1
 SortLocation=0
+ReplaceSubparts=0
 MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
@@ -1266,10 +1321,101 @@ NetClassSeparateForBusSections=0
 [LibraryUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
+UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Merge_ESC_Board_Library.SchLib
+ComponentDesignItemID0=1N58xx
+ComponentSymbolReference0=1N58xx
+ComponentUpdate0=0
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=Merge_ESC_Board_Library.SchLib
+ComponentDesignItemID1=CSD16570Q5B
+ComponentSymbolReference1=CSD16570Q5B
+ComponentUpdate1=0
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=Merge_ESC_Board_Library.SchLib
+ComponentDesignItemID2=IPT004N03L
+ComponentSymbolReference2=IPT004N03L
+ComponentUpdate2=0
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=Merge_ESC_Board_Library.SchLib
+ComponentDesignItemID3=JumperOpen
+ComponentSymbolReference3=JumperOpen
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=Merge_ESC_Board_Library.SchLib
+ComponentDesignItemID4=JumperShorted
+ComponentSymbolReference4=JumperShorted
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=Merge_ESC_Board_Library.SchLib
+ComponentDesignItemID5=LTC4357CMS8#PBF
+ComponentSymbolReference5=LTC4357CMS8#PBF
+ComponentUpdate5=0
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=Merge_ESC_Board_Library.SchLib
+ComponentDesignItemID6=Megafit Slim Vert 2 Peg
+ComponentSymbolReference6=Megafit Slim Vert 2 Peg
+ComponentUpdate6=0
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=Merge_ESC_Board_Library.SchLib
+ComponentDesignItemID7=Molex2002411114
+ComponentSymbolReference7=Molex2002411114
+ComponentUpdate7=0
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=Merge_ESC_Board_Library.SchLib
+ComponentDesignItemID8=Molex42820-4224
+ComponentSymbolReference8=Molex42820-4224
+ComponentUpdate8=0
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=Merge_ESC_Board_Library.SchLib
+ComponentDesignItemID9=TPS2481
+ComponentSymbolReference9=TPS2481
+ComponentUpdate9=0
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=Merge_ESC_Board_Library.SchLib
+ComponentDesignItemID10=WSL27262L000FEB
+ComponentSymbolReference10=WSL27262L000FEB
+ComponentUpdate10=0
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=Miscellaneous Connectors.IntLib
+ComponentDesignItemID11=Header 2
+ComponentSymbolReference11=Header 2
+ComponentUpdate11=0
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=Miscellaneous Connectors.IntLib
+ComponentDesignItemID12=Header 4
+ComponentSymbolReference12=Header 4
+ComponentUpdate12=0
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name And Type
+ComponentLibraryIdentifier13=Miscellaneous Devices.IntLib
+ComponentDesignItemID13=Cap Semi
+ComponentSymbolReference13=Cap Semi
+ComponentUpdate13=0
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name And Type
+ComponentLibraryIdentifier14=Miscellaneous Devices.IntLib
+ComponentDesignItemID14=Res3
+ComponentSymbolReference14=Res3
+ComponentUpdate14=0
+ComponentIsDeviceSheet14=0
 FullReplace=1
-UpdateDesignatorLock=1
-UpdatePartIDLock=1
+UpdateDesignatorLock=0
+UpdatePartIDLock=0
 PreserveParameterLocations=1
 PreserveParameterVisibility=1
 DoGraphics=1
@@ -1280,10 +1426,178 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=ComponentLink1Description
+ParameterUpdate2=1
+ParameterName3=ComponentLink1URL
+ParameterUpdate3=1
+ParameterName4=ComponentLink2Description
+ParameterUpdate4=1
+ParameterName5=ComponentLink2URL
+ParameterUpdate5=1
+ParameterName6=ComponentLink3Description
+ParameterUpdate6=1
+ParameterName7=ComponentLink3URL
+ParameterUpdate7=1
+ParameterName8=Datasheet
+ParameterUpdate8=1
+ParameterName9=Datasheet Link
+ParameterUpdate9=1
+ParameterName10=Datasheet_Link
+ParameterUpdate10=1
+ParameterName11=DatasheetVersion
+ParameterUpdate11=1
+ParameterName12=Description
+ParameterUpdate12=1
+ParameterName13=Digikey Link
+ParameterUpdate13=1
+ParameterName14=Digikey_Link
+ParameterUpdate14=1
+ParameterName15=Green
+ParameterUpdate15=1
+ParameterName16=Halogen-free
+ParameterUpdate16=1
+ParameterName17=ID (max)
+ParameterUpdate17=1
+ParameterName18=Ideal Diode
+ParameterUpdate18=1
+ParameterName19=IDpuls (max)
+ParameterUpdate19=1
+ParameterName20=LatestRevisionDate
+ParameterUpdate20=1
+ParameterName21=LatestRevisionNote
+ParameterUpdate21=1
+ParameterName22=Library Reference
+ParameterUpdate22=1
+ParameterName23=Manufacturer
+ParameterUpdate23=1
+ParameterName24=mfgr_part_num
+ParameterUpdate24=1
+ParameterName25=Mounting Technology
+ParameterUpdate25=1
+ParameterName26=PackageDescription
+ParameterUpdate26=1
+ParameterName27=PackageReference
+ParameterUpdate27=1
+ParameterName28=PackageVersion
+ParameterUpdate28=1
+ParameterName29=Packing
+ParameterUpdate29=1
+ParameterName30=PartNumber
+ParameterUpdate30=1
+ParameterName31=Polarity
+ParameterUpdate31=1
+ParameterName32=Ptot (max)
+ParameterUpdate32=1
+ParameterName33=Published
+ParameterUpdate33=1
+ParameterName34=Publisher
+ParameterUpdate34=1
+ParameterName35=QG
+ParameterUpdate35=1
+ParameterName36=RDS (on) (max)
+ParameterUpdate36=1
+ParameterName37=RoHS
+ParameterUpdate37=1
+ParameterName38=RthJA (max)
+ParameterUpdate38=1
+ParameterName39=RthJC (max)
+ParameterUpdate39=1
+ParameterName40=Supplier 1
+ParameterUpdate40=1
+ParameterName41=Supplier 2
+ParameterUpdate41=1
+ParameterName42=Supplier 3
+ParameterUpdate42=1
+ParameterName43=Supplier Part Number 1
+ParameterUpdate43=1
+ParameterName44=Supplier Part Number 2
+ParameterUpdate44=1
+ParameterName45=Supplier Part Number 3
+ParameterUpdate45=1
+ParameterName46=Technology
+ParameterUpdate46=1
+ParameterName47=Value
+ParameterUpdate47=1
+ParameterName48=VDS (max)
+ParameterUpdate48=1
+ParameterName49=VGS (max)
+ParameterUpdate49=1
+ParameterName50=VGS(th) (max)
+ParameterUpdate50=1
+ParameterName51=VGS(th) (min)
+ParameterUpdate51=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=1N58xx
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=76829-0102
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=C1206
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=CSD16570Q5B
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=DF13-4P-1.25DSA
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=HDR1X2
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=HDR1X4
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=INF-PG-HSOF-8-1_V
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=J1-0603
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=LT-MS8-8_N
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=Molex2002411114
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=Molex42820-4224
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=TPS2481
+ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=WSL27262L000FEB
+ModelUpdate13=1
+ModelTypeGroup1=SI
+ModelTypeUpdate1=1
+ModelType14=SI
+ModelName14=Cap Semi
+ModelUpdate14=1
+ModelType15=SI
+ModelName15=Connector
+ModelUpdate15=1
+ModelType16=SI
+ModelName16=Res
+ModelUpdate16=1
+ModelTypeGroup2=SIM
+ModelTypeUpdate2=1
+ModelType17=SIM
+ModelName17=CAP
+ModelUpdate17=1
+ModelType18=SIM
+ModelName18=RESISTOR
+ModelUpdate18=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
+UpdateToLatestRevision=1
 PartTypes=0
 
 [Comparison Options]
