@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=DO_D Pin=U_Pot-14
-Removed Pin From Net: NetName=DI_D Pin=U_Pot-15
-Removed Pin From Net: NetName=DO_C Pin=U_Pot-17
-Removed Pin From Net: NetName=DI_C Pin=U_Pot-18
-Added Pin To Net: NetName=DI_D Pin=U_Pot-14
-Added Pin To Net: NetName=DO_D Pin=U_Pot-15
-Added Pin To Net: NetName=DI_C Pin=U_Pot-17
-Added Pin To Net: NetName=DO_C Pin=U_Pot-18

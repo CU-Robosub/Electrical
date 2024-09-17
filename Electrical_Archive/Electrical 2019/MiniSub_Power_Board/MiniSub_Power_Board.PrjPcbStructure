@@ -1,3 +1,0 @@
-Record=TopLevelDocument|FileName=MiniSub_Power_Board.SchDoc
-Record=SheetSymbol|SourceDocument=MiniSub_Power_Board.SchDoc|Designator=5V Converter|SchDesignator=5V Converter|FileName=5V_Converter.SchDoc|SymbolType=Normal|RawFileName=5V_Converter.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=MiniSub_Power_Board.SchDoc|Designator=12V Converter|SchDesignator=12V Converter|FileName=12V_Converter.SchDoc|SymbolType=Normal|RawFileName=12V_Converter.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
