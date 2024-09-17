@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=C1 NewDesignator=C1
+Change Component Designator: OldDesignator=C2 NewDesignator=C2
+Change Component Designator: OldDesignator=C3 NewDesignator=C3
+Change Component Designator: OldDesignator=C4 NewDesignator=C4
+Change Component Designator: OldDesignator=C5 NewDesignator=C5
+Change Component Designator: OldDesignator=R1 NewDesignator=R1
+Change Component Designator: OldDesignator=R2 NewDesignator=R2
+Change Component Designator: OldDesignator=R3 NewDesignator=R3
+Change Component Designator: OldDesignator=R4 NewDesignator=R4
+Change Component Designator: OldDesignator=R5 NewDesignator=R5
+Change Component Designator: OldDesignator=R6 NewDesignator=R6
+Change Component Designator: OldDesignator=R7 NewDesignator=R7
+Change Component Designator: OldDesignator=R8 NewDesignator=R8
+Change Component Designator: OldDesignator=U2 NewDesignator=U2
+Change Pin Designator/Name:  Old Designator=U1-32 Old Name=AINDP New Designator =AINBP New Name=40
+Change Pin Designator/Name:  Old Designator=U1-40 Old Name=AINBP New Designator =AINDP New Name=32

@@ -1,0 +1,67 @@
+Change Component Designator: OldDesignator=C16_A1 NewDesignator=C16_D
+Change Component Designator: OldDesignator=C16_A2 NewDesignator=C16_C
+Change Component Designator: OldDesignator=C16_A3 NewDesignator=C16_B
+Change Component Designator: OldDesignator=C16_A4 NewDesignator=C16_A
+Change Component Designator: OldDesignator=P2_A1 NewDesignator=P2_D
+Change Component Designator: OldDesignator=P2_A2 NewDesignator=P2_C
+Change Component Designator: OldDesignator=P2_A3 NewDesignator=P2_B
+Change Component Designator: OldDesignator=P2_A4 NewDesignator=P2_A
+Change Component Designator: OldDesignator=R15_A1 NewDesignator=R15_D
+Change Component Designator: OldDesignator=R15_A2 NewDesignator=R15_C
+Change Component Designator: OldDesignator=R15_A3 NewDesignator=R15_B
+Change Component Designator: OldDesignator=R15_A4 NewDesignator=R15_A
+Change Component Designator: OldDesignator=R16_A1 NewDesignator=R16_D
+Change Component Designator: OldDesignator=R16_A2 NewDesignator=R16_C
+Change Component Designator: OldDesignator=R16_A3 NewDesignator=R16_B
+Change Component Designator: OldDesignator=R16_A4 NewDesignator=R16_A
+Change Component Designator: OldDesignator=R17_A1 NewDesignator=R17_D
+Change Component Designator: OldDesignator=R17_A2 NewDesignator=R17_C
+Change Component Designator: OldDesignator=R17_A3 NewDesignator=R17_B
+Change Component Designator: OldDesignator=R17_A4 NewDesignator=R17_A
+Change Component Designator: OldDesignator=R18_A1 NewDesignator=R18_D
+Change Component Designator: OldDesignator=R18_A2 NewDesignator=R18_C
+Change Component Designator: OldDesignator=R18_A3 NewDesignator=R18_B
+Change Component Designator: OldDesignator=R18_A4 NewDesignator=R18_A
+Change Component Designator: OldDesignator=U3_A1 NewDesignator=U3_D
+Change Component Designator: OldDesignator=U3_A2 NewDesignator=U3_C
+Change Component Designator: OldDesignator=U3_A3 NewDesignator=U3_B
+Change Component Designator: OldDesignator=U3_A4 NewDesignator=U3_A
+Change Net Name : Old Net Name=NetP2_A1_1 New Net Name=NetP2_D_1
+Change Net Name : Old Net Name=NetP2_A1_2 New Net Name=NetP2_D_2
+Change Net Name : Old Net Name=NetP2_A1_3 New Net Name=NetP2_D_3
+Change Net Name : Old Net Name=NetP2_A2_1 New Net Name=NetP2_C_1
+Change Net Name : Old Net Name=NetP2_A2_2 New Net Name=NetP2_C_2
+Change Net Name : Old Net Name=NetP2_A2_3 New Net Name=NetP2_C_3
+Change Net Name : Old Net Name=NetP2_A3_1 New Net Name=NetP2_B_1
+Change Net Name : Old Net Name=NetP2_A3_2 New Net Name=NetP2_B_2
+Change Net Name : Old Net Name=NetP2_A3_3 New Net Name=NetP2_B_3
+Change Net Name : Old Net Name=NetP2_A4_1 New Net Name=NetP2_A_1
+Change Net Name : Old Net Name=NetP2_A4_2 New Net Name=NetP2_A_2
+Change Net Name : Old Net Name=NetP2_A4_3 New Net Name=NetP2_A_3
+Change Net Name : Old Net Name=NetR15_A1_2 New Net Name=NetR15_D_2
+Change Net Name : Old Net Name=NetR15_A1_3 New Net Name=NetR15_D_3
+Change Net Name : Old Net Name=NetR15_A2_2 New Net Name=NetR15_C_2
+Change Net Name : Old Net Name=NetR15_A2_3 New Net Name=NetR15_C_3
+Change Net Name : Old Net Name=NetR15_A3_2 New Net Name=NetR15_B_2
+Change Net Name : Old Net Name=NetR15_A3_3 New Net Name=NetR15_B_3
+Change Net Name : Old Net Name=NetR15_A4_2 New Net Name=NetR15_A_2
+Change Net Name : Old Net Name=NetR15_A4_3 New Net Name=NetR15_A_3
+Change Net Name : Old Net Name=NetR16_A1_2 New Net Name=NetR16_D_2
+Change Net Name : Old Net Name=NetR16_A2_2 New Net Name=NetR16_C_2
+Change Net Name : Old Net Name=NetR16_A3_2 New Net Name=NetR16_B_2
+Change Net Name : Old Net Name=NetR16_A4_2 New Net Name=NetR16_A_2
+Change Class Name : Old Net Name=A1 New Net Name=D
+Change Class Name : Old Net Name=A2 New Net Name=C
+Change Class Name : Old Net Name=A3 New Net Name=B
+Change Class Name : Old Net Name=A4 New Net Name=A
+Change Room Name: Old Name=A3 New Name=D
+Change Room Scope: Old Scope=InComponentClass('A3') New Scope=InComponentClass('D')
+Change Room Name: Old Name=A4 New Name=D
+Change Room Scope: Old Scope=InComponentClass('A4') New Scope=InComponentClass('D')
+Added Room: Name=A
+Added Room: Name=B
+Added Room: Name=B
+Added Room: Name=C
+Added Room: Name=C
+Added Room: Name=Top_level
+Added Room: Name=U_ADC

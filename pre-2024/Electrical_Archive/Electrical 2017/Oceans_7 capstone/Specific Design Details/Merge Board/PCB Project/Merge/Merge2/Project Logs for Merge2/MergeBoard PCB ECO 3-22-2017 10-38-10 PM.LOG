@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=TEENSYKILL Pin=U4-2
+Removed Pin From Net: NetName=GND Pin=U4-3
+Removed Pin From Net: NetName=5V Pin=U4-4
+Removed Pin From Net: NetName=KILL OUT Pin=U4-5
+Removed Pin From Net: NetName=ANALOGOUT6 Pin=U15-9
+Removed Pin From Net: NetName=ANALOGOUT5 Pin=U15-10
+Removed Pin From Net: NetName=ANALOGOUT4 Pin=U15-11-2
+Removed Pin From Net: NetName=ANALOGOUT7 Pin=U15-11
+Removed Pin From Net: NetName=ANALOGOUT8 Pin=U15-12
+Removed Pin From Net: NetName=ANALOGOUT9 Pin=U15-13
+Removed Pin From Net: NetName=ANALOGOUT10 Pin=U15-14
+Removed Pin From Net: NetName=ANALOGOUT1 Pin=U15-15-2
+Removed Pin From Net: NetName=ANALOGOUT3 Pin=U15-17-2
+Removed Member From Class: ClassName=U_KillSwitch_MotorOut Member=U4
+Change Component Footprint: Designator=C1 Old Footprint=1608[0603] New Footprint=C1206
+Change Component Footprint: Designator=C2 Old Footprint=1608[0603] New Footprint=C1206
+Added Component: Designator=NC7SZ08M5X(NC7SZ08M5X)
+Added Pin To Net: NetName=TEENSYKILL Pin=NC7SZ08M5X-2
+Added Pin To Net: NetName=GND Pin=NC7SZ08M5X-3
+Added Pin To Net: NetName=KILL OUT Pin=NC7SZ08M5X-4
+Added Pin To Net: NetName=5V Pin=NC7SZ08M5X-5
+Added Pin To Net: NetName=ANALOGOUT9 Pin=U15-9
+Added Pin To Net: NetName=ANALOGOUT10 Pin=U15-10
+Added Pin To Net: NetName=ANALOGOUT1 Pin=U15-11-2
+Added Pin To Net: NetName=ANALOGOUT6 Pin=U15-11
+Added Pin To Net: NetName=ANALOGOUT5 Pin=U15-12
+Added Pin To Net: NetName=ANALOGOUT7 Pin=U15-13
+Added Pin To Net: NetName=ANALOGOUT8 Pin=U15-14
+Added Pin To Net: NetName=ANALOGOUT3 Pin=U15-15-2
+Added Pin To Net: NetName=ANALOGOUT4 Pin=U15-17-2
+Added Pin To Net: NetName=NetNC7SZ08M5X_1 Pin=NC7SZ08M5X-1
+Added Pin To Net: NetName=NetNC7SZ08M5X_1 Pin=P1-2
+Added Pin To Net: NetName=NetNC7SZ08M5X_1 Pin=R19-2
+Added Net: Name=NetNC7SZ08M5X_1
+Added Member To Class: ClassName=U_KillSwitch_MotorOut Member=Component NC7SZ08M5X U?

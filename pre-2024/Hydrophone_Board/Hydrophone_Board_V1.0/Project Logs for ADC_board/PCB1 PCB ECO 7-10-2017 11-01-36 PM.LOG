@@ -1,0 +1,73 @@
+Added Component: Designator=C16_C(1608[0603])
+Added Component: Designator=C16_D(1608[0603])
+Added Component: Designator=P2_C(HDR1X3)
+Added Component: Designator=P2_D(HDR1X3)
+Added Component: Designator=R15_C(VR5)
+Added Component: Designator=R15_D(VR5)
+Added Component: Designator=R16_C(VR5)
+Added Component: Designator=R16_D(VR5)
+Added Component: Designator=R17_C(J1-0603)
+Added Component: Designator=R17_D(J1-0603)
+Added Component: Designator=R18_C(J1-0603)
+Added Component: Designator=R18_D(J1-0603)
+Added Component: Designator=U3_C(SOIC127P600X175-8N(lm358))
+Added Component: Designator=U3_D(SOIC127P600X175-8N(lm358))
+Added Pin To Net: NetName=GND Pin=C16_C-1
+Added Pin To Net: NetName=3.3V Pin=C16_C-2
+Added Pin To Net: NetName=GND Pin=C16_D-1
+Added Pin To Net: NetName=3.3V Pin=C16_D-2
+Added Pin To Net: NetName=NetP2_C_1 Pin=P2_C-1
+Added Pin To Net: NetName=NetP2_C_2 Pin=P2_C-2
+Added Pin To Net: NetName=NetP2_C_3 Pin=P2_C-3
+Added Pin To Net: NetName=NetP2_D_1 Pin=P2_D-1
+Added Pin To Net: NetName=NetP2_D_2 Pin=P2_D-2
+Added Pin To Net: NetName=NetP2_D_3 Pin=P2_D-3
+Added Pin To Net: NetName=NetR15_C_2 Pin=R15_C-2
+Added Pin To Net: NetName=NetR15_C_3 Pin=R15_C-3
+Added Pin To Net: NetName=NetR15_D_2 Pin=R15_D-2
+Added Pin To Net: NetName=NetR15_D_3 Pin=R15_D-3
+Added Pin To Net: NetName=NetR16_C_2 Pin=R16_C-2
+Added Pin To Net: NetName=NetP2_C_1 Pin=R16_C-3
+Added Pin To Net: NetName=NetR16_D_2 Pin=R16_D-2
+Added Pin To Net: NetName=NetP2_D_1 Pin=R16_D-3
+Added Pin To Net: NetName=GND Pin=R17_C-1
+Added Pin To Net: NetName=NetR15_C_2 Pin=R17_C-2
+Added Pin To Net: NetName=GND Pin=R17_D-1
+Added Pin To Net: NetName=NetR15_D_2 Pin=R17_D-2
+Added Pin To Net: NetName=GND Pin=R18_C-1
+Added Pin To Net: NetName=NetR16_C_2 Pin=R18_C-2
+Added Pin To Net: NetName=GND Pin=R18_D-1
+Added Pin To Net: NetName=NetR16_D_2 Pin=R18_D-2
+Added Pin To Net: NetName=NetR15_C_3 Pin=U3_C-1
+Added Pin To Net: NetName=NetR15_C_2 Pin=U3_C-2
+Added Pin To Net: NetName=NetC2_C_2 Pin=U3_C-3
+Added Pin To Net: NetName=GND Pin=U3_C-4
+Added Pin To Net: NetName=NetR15_C_3 Pin=U3_C-5
+Added Pin To Net: NetName=NetR16_C_2 Pin=U3_C-6
+Added Pin To Net: NetName=NetP2_C_2 Pin=U3_C-7
+Added Pin To Net: NetName=3.3V Pin=U3_C-8
+Added Pin To Net: NetName=NetR15_D_3 Pin=U3_D-1
+Added Pin To Net: NetName=NetR15_D_2 Pin=U3_D-2
+Added Pin To Net: NetName=NetC2_D_2 Pin=U3_D-3
+Added Pin To Net: NetName=GND Pin=U3_D-4
+Added Pin To Net: NetName=NetR15_D_3 Pin=U3_D-5
+Added Pin To Net: NetName=NetR16_D_2 Pin=U3_D-6
+Added Pin To Net: NetName=NetP2_D_2 Pin=U3_D-7
+Added Pin To Net: NetName=3.3V Pin=U3_D-8
+Added Member To Class: ClassName=C Member=Component C16_C (C16) Cap
+Added Member To Class: ClassName=D Member=Component C16_D (C16) Cap
+Added Member To Class: ClassName=C Member=Component P2_C (P2) Header 3
+Added Member To Class: ClassName=D Member=Component P2_D (P2) Header 3
+Added Member To Class: ClassName=C Member=Component R15_C (R15) RPot
+Added Member To Class: ClassName=D Member=Component R15_D (R15) RPot
+Added Member To Class: ClassName=C Member=Component R16_C (R16) RPot
+Added Member To Class: ClassName=D Member=Component R16_D (R16) RPot
+Added Member To Class: ClassName=C Member=Component R17_C (R17) Res3
+Added Member To Class: ClassName=D Member=Component R17_D (R17) Res3
+Added Member To Class: ClassName=C Member=Component R18_C (R18) Res3
+Added Member To Class: ClassName=D Member=Component R18_D (R18) Res3
+Added Member To Class: ClassName=C Member=Component U3_C (U3A) LM358DR
+Added Member To Class: ClassName=D Member=Component U3_D (U3A) LM358DR
+Change Room Name: Old Name=A_1 New Name=A
+Change Room Name: Old Name=B_1 New Name=B
+Change Room Name: Old Name=C_1 New Name=C

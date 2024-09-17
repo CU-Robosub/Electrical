@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=14.8V Pin=Q1-9
+Added Pin To Net: NetName=14.8V Pin=Q2-9
+Added Pin To Net: NetName=14.8V Pin=U1-7
+Added Pin To Net: NetName=14.8V Pin=U1-8
+Added Pin To Net: NetName=14.8V Pin=U2-7
+Added Pin To Net: NetName=14.8V Pin=U2-8
+Change Net Name : Old Net Name=14.8V New Net Name=NetJ3_1
+Added Room: Name=Merge

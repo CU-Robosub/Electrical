@@ -1,0 +1,27 @@
+Change Component Designator: OldDesignator=P2_A NewDesignator=P4_A
+Change Component Designator: OldDesignator=P2_B NewDesignator=P4_B
+Change Component Designator: OldDesignator=P2_C NewDesignator=P4_C
+Change Component Designator: OldDesignator=P2_D NewDesignator=P4_D
+Change Component Designator: OldDesignator=V3.3A NewDesignator=V2
+Change Component Designator: OldDesignator=V3.3D NewDesignator=V3
+Added Pin To Net: NetName=3.3V_A Pin=C26_A-2
+Added Pin To Net: NetName=3.3V_A Pin=U3_A-8
+Change Net Name : Old Net Name=NetP2_A_1 New Net Name=NetP4_A_1
+Change Net Name : Old Net Name=NetP2_A_2 New Net Name=NetP4_A_2
+Change Net Name : Old Net Name=NetP2_B_1 New Net Name=NetP4_B_1
+Change Net Name : Old Net Name=NetP2_B_2 New Net Name=NetP4_B_2
+Change Net Name : Old Net Name=NetP2_C_1 New Net Name=NetP4_C_1
+Change Net Name : Old Net Name=NetP2_C_2 New Net Name=NetP4_C_2
+Change Net Name : Old Net Name=NetP2_D_1 New Net Name=NetP4_D_1
+Change Net Name : Old Net Name=NetP2_D_2 New Net Name=NetP4_D_2
+Added Room: Name=A
+Added Room: Name=A
+Added Room: Name=B
+Added Room: Name=B
+Added Room: Name=C
+Added Room: Name=C
+Added Room: Name=D
+Added Room: Name=D
+Added Room: Name=Top_level
+Added Room: Name=U_ADC
+Added Room: Name=U_Power
