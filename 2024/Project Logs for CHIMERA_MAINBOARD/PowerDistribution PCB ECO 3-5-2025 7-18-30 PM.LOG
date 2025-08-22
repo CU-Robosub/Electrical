@@ -1,0 +1,10 @@
+Change Component DesignItemId : Designator=* Old DesignItemId=CMP-019-00049-1 New DesignItemId=CMP-019-00049-3
+Change Component Footprint: Designator=* Old Footprint=BMR4913208_857-Footprint-1 New Footprint=BMR4913208_857-Footprint-1
+Change Managed Component Library Link : Designator=* Old VaultGUID=31EA27AD-8306-48F8-8D01-A836E74D2C75 New VaultGUID=31EA27AD-8306-48F8-8D01-A836E74D2C75 Old ItemGUID=6de66fa5-3b24-4d42-8088-29ff058f9d0d New ItemGUID=6de66fa5-3b24-4d42-8088-29ff058f9d0d Old RevisionGUID=91b9af7e-758e-4523-b9c9-334c11348fe4 New RevisionGUID=b2934cdc-c67a-447a-8f7b-b0823a10e045
+Added Pin To Net: NetName=48VIn+ Pin=*-1
+Added Pin To Net: NetName=48VIn- Pin=*-2
+Added Pin To Net: NetName=48VIn- Pin=*-3
+Added Pin To Net: NetName=-Out12V Pin=*-4
+Added Pin To Net: NetName=-Out12V Pin=*-5
+Added Pin To Net: NetName=+Out12V Pin=*-7
+Added Pin To Net: NetName=+Out12V Pin=*-8

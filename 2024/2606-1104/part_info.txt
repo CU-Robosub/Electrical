@@ -1,0 +1,9 @@
+Manufacturer=Wago
+PartNumber=2606-1104
+PartCategory=Connector
+PackageCategory=Other
+PinCount=8
+Version=2.11
+Released=2023-07-08 04:02:11
+Downloaded=2025-02-25 02:03:46
+3D=Y

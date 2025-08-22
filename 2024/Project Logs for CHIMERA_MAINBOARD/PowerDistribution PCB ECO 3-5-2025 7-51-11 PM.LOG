@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=-Out12V Pin=*-2
+Added Pin To Net: NetName=-Out12V Pin=*-3
+Added Pin To Net: NetName=-Out12V Pin=J1-3
+Added Pin To Net: NetName=-Out12V Pin=J1-4
+Added Pin To Net: NetName=-Out12V Pin=J6-3
+Added Pin To Net: NetName=-Out12V Pin=J6-4
+Added Pin To Net: NetName=-Out12V Pin=J6-7
+Added Pin To Net: NetName=-Out12V Pin=J6-8
+Added Pin To Net: NetName=-Out12V Pin=J7-3
+Added Pin To Net: NetName=-Out12V Pin=J7-4
+Added Pin To Net: NetName=-Out12V Pin=J7-7
+Added Pin To Net: NetName=-Out12V Pin=J7-8
+Added Pin To Net: NetName=-Out12V Pin=PS1-2
+Added Pin To Net: NetName=-Out12V Pin=PS1-3
+Added Pin To Net: NetName=-Out12V Pin=PS1-4
+Added Pin To Net: NetName=-Out12V Pin=PS1-5
+Change Net Name : Old Net Name=-Out12V New Net Name=48VIn-
+Added Rule: Name=Schematic Supply Nets

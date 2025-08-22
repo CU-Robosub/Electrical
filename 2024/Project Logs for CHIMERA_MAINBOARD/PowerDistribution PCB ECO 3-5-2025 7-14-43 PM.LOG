@@ -1,0 +1,153 @@
+Added Component: Designator=*(BMR4913208_857-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1(26061102)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.wago.com/global/pcb-terminal-blocks-and-pluggable-connectors/pcb-terminal-block/p/2606-1102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "24mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wago"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2606-1102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(1932588)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1932588"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1932588/phoenix-contact?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-2/sf-00057397.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "39.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1932588"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1932588"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1932588?qs=zGjMOL9s0Z%252BnZxcpLOCAEA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J3(26061104)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.wago.com/2606-1104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "24mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wago"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2606-1104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4(26061104)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.wago.com/2606-1104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "24mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wago"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2606-1104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J5(26061104)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.wago.com/2606-1104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "24mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wago"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2606-1104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J6(26061104)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.wago.com/2606-1104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "24mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wago"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2606-1104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7(26061104)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.wago.com/2606-1104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "24mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wago"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2606-1104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=PS1(IRS1245Q48NC)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "IRS-12/4.5-Q48N-C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/irs-124.5-q48n-c/murata-power-solutions?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://power.murata.com/data/power/irs-q48.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "13.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IRS-12/4.5-Q48N-C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "580-IRS12/4.5-Q48NC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/IRS-12-4.5-Q48N-C?qs=f9yNj16SXrJShYYebNX1QA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+Out5V Pin=J6-1
+Added Pin To Net: NetName=+Out5V Pin=J6-2
+Added Pin To Net: NetName=+Out5V Pin=J6-5
+Added Pin To Net: NetName=+Out5V Pin=J6-6
+Added Pin To Net: NetName=+Out5V Pin=J7-1
+Added Pin To Net: NetName=+Out5V Pin=J7-2
+Added Pin To Net: NetName=+Out5V Pin=J7-5
+Added Pin To Net: NetName=+Out5V Pin=J7-6
+Added Pin To Net: NetName=+Out5V Pin=PS1-7
+Added Pin To Net: NetName=+Out5V Pin=PS1-8
+Added Net: Name=+Out5V
+Added Pin To Net: NetName=+Out12V Pin=J2-1
+Added Pin To Net: NetName=+Out12V Pin=J2-2
+Added Pin To Net: NetName=+Out12V Pin=J2-3
+Added Pin To Net: NetName=+Out12V Pin=J2-4
+Added Pin To Net: NetName=+Out12V Pin=J3-1
+Added Pin To Net: NetName=+Out12V Pin=J3-2
+Added Pin To Net: NetName=+Out12V Pin=J3-5
+Added Pin To Net: NetName=+Out12V Pin=J3-6
+Added Pin To Net: NetName=+Out12V Pin=J4-1
+Added Pin To Net: NetName=+Out12V Pin=J4-2
+Added Pin To Net: NetName=+Out12V Pin=J4-5
+Added Pin To Net: NetName=+Out12V Pin=J4-6
+Added Pin To Net: NetName=+Out12V Pin=J5-1
+Added Pin To Net: NetName=+Out12V Pin=J5-2
+Added Pin To Net: NetName=+Out12V Pin=J5-5
+Added Pin To Net: NetName=+Out12V Pin=J5-6
+Added Net: Name=+Out12V
+Added Pin To Net: NetName=-Out5V Pin=J6-3
+Added Pin To Net: NetName=-Out5V Pin=J6-4
+Added Pin To Net: NetName=-Out5V Pin=J6-7
+Added Pin To Net: NetName=-Out5V Pin=J6-8
+Added Pin To Net: NetName=-Out5V Pin=J7-3
+Added Pin To Net: NetName=-Out5V Pin=J7-4
+Added Pin To Net: NetName=-Out5V Pin=J7-7
+Added Pin To Net: NetName=-Out5V Pin=J7-8
+Added Pin To Net: NetName=-Out5V Pin=PS1-4
+Added Pin To Net: NetName=-Out5V Pin=PS1-5
+Added Net: Name=-Out5V
+Added Pin To Net: NetName=-Out12V Pin=J2-5
+Added Pin To Net: NetName=-Out12V Pin=J2-6
+Added Pin To Net: NetName=-Out12V Pin=J2-7
+Added Pin To Net: NetName=-Out12V Pin=J2-8
+Added Pin To Net: NetName=-Out12V Pin=J3-3
+Added Pin To Net: NetName=-Out12V Pin=J3-4
+Added Pin To Net: NetName=-Out12V Pin=J3-7
+Added Pin To Net: NetName=-Out12V Pin=J3-8
+Added Pin To Net: NetName=-Out12V Pin=J4-3
+Added Pin To Net: NetName=-Out12V Pin=J4-4
+Added Pin To Net: NetName=-Out12V Pin=J4-7
+Added Pin To Net: NetName=-Out12V Pin=J4-8
+Added Pin To Net: NetName=-Out12V Pin=J5-3
+Added Pin To Net: NetName=-Out12V Pin=J5-4
+Added Pin To Net: NetName=-Out12V Pin=J5-7
+Added Pin To Net: NetName=-Out12V Pin=J5-8
+Added Net: Name=-Out12V
+Added Pin To Net: NetName=48VIn+ Pin=J1-1
+Added Pin To Net: NetName=48VIn+ Pin=J1-2
+Added Pin To Net: NetName=48VIn+ Pin=PS1-1
+Added Net: Name=48VIn+
+Added Pin To Net: NetName=48VIn- Pin=J1-3
+Added Pin To Net: NetName=48VIn- Pin=J1-4
+Added Pin To Net: NetName=48VIn- Pin=PS1-2
+Added Pin To Net: NetName=48VIn- Pin=PS1-3
+Added Net: Name=48VIn-
+Added Class: Name=PowerDistribution

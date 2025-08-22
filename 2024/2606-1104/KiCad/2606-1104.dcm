@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2606-1104
+D PCB terminal block; lever; 6 mm; Pin spacing 7.5 mm; 4-pole; Push-in CAGE CLAMP
+K
+F https://www.wago.com/2606-1104
+$ENDCMP
+#
+#End Doc Library

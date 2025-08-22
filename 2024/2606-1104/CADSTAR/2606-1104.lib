@@ -1,0 +1,18 @@
+.2606-1104 :1 ;PCB terminal block; lever; 6 mm; Pin spacing 7.5 mm; 4-pole; Push-in CAGE CLAMP
+"26061104"
+*STM J
+*NGS
+*PLB 1="1.1" 2="1.2" 3="2.1" 4="2.2" 5="3.1" 6="3.2" 7="4.1" 8="4.2"
+*MXP 8
+*DFN 2606-1104
+~!Manufacturer_Name (Wago)
+~!Manufacturer_Part_Number (2606-1104)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.wago.com/2606-1104)
+~!Height (24mm)
+~!3D_Model (2606-1104)
+"2606-1104"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 
